@@ -1,0 +1,134 @@
+{
+    "profile": "Influential UK DJ and production act working broadly in the field of electronic music. They also founded the eclectic label [l=Ninja Tune].",
+    "releases_url": "https://api.discogs.com/artists/946/releases",
+    "name": "Coldcut",
+    "namevariations": ["Colcut", "Cold", "Cold Cut", "Coldcut / \u30b3\u30fc\u30eb\u30c9\u30ab\u30c3\u30c8", "Coldcut Feat. Yazz & The Plastic Population", "Coldcut For Ahead Of Our Time", "Coldcut's Computer", "Coldcut\u2019s Computer", "Couldcut", "The Coldcut Crew"],
+    "uri": "https://www.discogs.com/artist/946-Coldcut",
+    "members": [
+        {
+            "active": false,
+            "resource_url": "https://api.discogs.com/artists/414078",
+            "id": 414078,
+            "name": "Janis Alexander"
+        },
+        {
+            "active": true,
+            "resource_url": "https://api.discogs.com/artists/147690",
+            "id": 147690,
+            "name": "Jonathan More"
+        },
+        {
+            "active": true,
+            "resource_url": "https://api.discogs.com/artists/147689",
+            "id": 147689,
+            "name": "Matt Black"
+        }
+    ],
+    "urls": ["http://www.coldcut.net/", "http://www.ninjatune.net/coldcut", "http://www.facebook.com/coldcutofficial", "http://www.myspace.com/coldcut", "http://twitter.com/coldcut", "http://en.wikipedia.org/wiki/Coldcut", "https://coldcut.bandcamp.com/"],
+    "images": [
+        {
+            "uri": "",
+            "height": 200,
+            "width": 158,
+            "resource_url": "",
+            "type": "primary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 114,
+            "width": 187,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 400,
+            "width": 290,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 142,
+            "width": 198,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 298,
+            "width": 490,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 241,
+            "width": 430,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        }
+    ],
+    "resource_url": "https://api.discogs.com/artists/946",
+    "aliases": [
+        {
+            "resource_url": "https://api.discogs.com/artists/72387",
+            "id": 72387,
+            "name": "Acid Ant"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/59713",
+            "id": 59713,
+            "name": "Apple"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/24115",
+            "id": 24115,
+            "name": "Bogus Order"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/24114",
+            "id": 24114,
+            "name": "Euphoreal"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/64522",
+            "id": 64522,
+            "name": "Floormaster Squeeze"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/811",
+            "id": 811,
+            "name": "Gideon"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/94027",
+            "id": 94027,
+            "name": "God & The Prophets"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/18220",
+            "id": 18220,
+            "name": "Matt Black & The Coldcut Crew"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/72386",
+            "id": 72386,
+            "name": "Sweet Tooth Sonny"
+        },
+        {
+            "resource_url": "https://api.discogs.com/artists/94028",
+            "id": 94028,
+            "name": "Switzch"
+        }
+    ],
+    "id": 946,
+    "data_quality": "Needs Vote",
+    "realname": "Jonathan More & Matt Black"
+}

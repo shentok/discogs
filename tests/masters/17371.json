@@ -1,0 +1,90 @@
+{
+    "styles": ["Breaks"],
+    "videos": [
+        {"duration": 329, "description": "Coldcut: Every Home A Prison (Yoshinori Sunahara Remix)", "embed": true, "uri": "https://www.youtube.com/watch?v=B7LQNaZQdic", "title": "Coldcut: Every Home A Prison (Yoshinori Sunahara Remix)"},
+        {"duration": 345, "description": "Coldcut - More Beats & Pieces (DJ Lord Faber Turntable Mix)", "embed": true, "uri": "https://www.youtube.com/watch?v=Ow_p3XYNzDw", "title": "Coldcut - More Beats & Pieces (DJ Lord Faber Turntable Mix)"},
+        {"duration": 497, "description": "Coldcut - Panopticon (Irresistible Force Mix)", "embed": true, "uri": "https://www.youtube.com/watch?v=l5AKtNZdNBc", "title": "Coldcut - Panopticon (Irresistible Force Mix)"},
+        {"duration": 357, "description": "Coldcut - Rubaiyat (Carl Craig Mix)", "embed": true, "uri": "https://www.youtube.com/watch?v=mxlYATzN3xo", "title": "Coldcut - Rubaiyat (Carl Craig Mix)"}
+    ],
+    "artists": [{"join": "", "name": "Coldcut", "anv": "", "tracks": "", "role": "", "resource_url": "https://api.discogs.com/artists/946", "id": 946}],
+    "versions_url": "https://api.discogs.com/masters/17371/versions",
+    "year": 1999,
+    "images": [
+        {
+            "uri": "",
+            "height": 450,
+            "width": 450,
+            "resource_url": "",
+            "type": "primary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 300,
+            "width": 300,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 300,
+            "width": 300,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 300,
+            "width": 300,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        },
+        {
+            "uri": "",
+            "height": 300,
+            "width": 300,
+            "resource_url": "",
+            "type": "secondary",
+            "uri150": ""
+        }
+    ],
+    "id": 17371,
+    "tracklist": [
+        {
+            "duration": "",
+            "position": "A1",
+            "type_": "track",
+            "extraartists": [{"join": "", "name": "Cornelius", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/3879", "id": 3879}],
+            "title": "Atomic Moog 2000 (Cornelius Mix)"
+        },
+        {
+            "duration": "",
+            "position": "A2",
+            "type_": "track",
+            "extraartists": [{"join": "", "name": "Jello Biafra", "anv": "", "tracks": "", "role": "Featuring", "resource_url": "https://api.discogs.com/artists/37752", "id": 37752}, {"join": "", "name": "Shut Up & Dance", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/4067", "id": 4067}],
+            "title": "Every Home A Prison (Shut Up & Dance Mix)"
+        },
+        {"duration": "", "position": "A3", "type_": "track", "extraartists": [{"join": "", "name": "Jimpster", "anv": "", "tracks": "", "role": "Co-producer", "resource_url": "https://api.discogs.com/artists/582", "id": 582}, {"join": "", "name": "Carl Craig", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/871", "id": 871}], "title": "Rubaiyat (Carl Craig Mix)"},
+        {"duration": "", "position": "B1", "type_": "track", "extraartists": [{"join": "", "name": "Silent Poets", "anv": "", "tracks": "", "role": "Featuring", "resource_url": "https://api.discogs.com/artists/3492", "id": 3492}], "title": "Border (Coldcut vs. Silent Poets)"},
+        {"duration": "", "position": "B2", "type_": "track", "extraartists": [{"join": "", "name": "DJ Lord Fader", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/29377", "id": 29377}], "title": "More Beats & Pieces (DJ Lord Fader Turntable Mix)"},
+        {"duration": "", "position": "B3", "type_": "track", "extraartists": [{"join": "", "name": "Grandmaster Flash", "anv": "", "tracks": "", "role": "Co-producer", "resource_url": "https://api.discogs.com/artists/21715", "id": 21715}, {"join": "", "name": "Strictly Kev", "anv": "", "tracks": "", "role": "Co-producer", "resource_url": "https://api.discogs.com/artists/65159", "id": 65159}, {"join": "", "name": "DJ Food", "anv": "", "tracks": "", "role": "Featuring", "resource_url": "https://api.discogs.com/artists/1431", "id": 1431}, {"join": "", "name": "Grandmaster Flash", "anv": "", "tracks": "", "role": "Featuring", "resource_url": "https://api.discogs.com/artists/21715", "id": 21715}], "title": "Last Night A Cliche Saved My Life"},
+        {"duration": "", "position": "C1", "type_": "track", "extraartists": [{"join": "", "name": "Paul Brook", "anv": "", "tracks": "", "role": "Drum Programming", "resource_url": "https://api.discogs.com/artists/250793", "id": 250793}], "title": "Atomic Moog 2000 (Live At Sonar Festival, Barcelona)"},
+        {"duration": "", "position": "C2", "type_": "track", "extraartists": [{"join": "", "name": "Paul Brook", "anv": "", "tracks": "", "role": "Additional Programming", "resource_url": "https://api.discogs.com/artists/250793", "id": 250793}, {"join": "", "name": "Outer Bongolia", "anv": "", "tracks": "", "role": "Co-producer", "resource_url": "https://api.discogs.com/artists/231681", "id": 231681}], "title": "Panopticon (Live In Tokyo)"},
+        {"duration": "", "position": "C3", "type_": "track", "extraartists": [{"join": "", "name": "Phil France", "anv": "", "tracks": "", "role": "Bass", "resource_url": "https://api.discogs.com/artists/290458", "id": 290458}, {"join": "", "name": "J Swinscoe", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/5094", "id": 5094}, {"join": "", "name": "Tom Chant", "anv": "", "tracks": "", "role": "Soprano Sax & Electric Piano", "resource_url": "https://api.discogs.com/artists/259754", "id": 259754}], "title": "Return To Margin (J Swinscoe Mix)"},
+        {"duration": "", "position": "D1", "type_": "track", "extraartists": [{"join": "", "name": "Outer Bongolia", "anv": "", "tracks": "", "role": "Co-producer", "resource_url": "https://api.discogs.com/artists/231681", "id": 231681}, {"join": "", "name": "The Irresistible Force", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/953", "id": 953}], "title": "Panopticon (Irresistible Force Mix)"},
+        {"duration": "", "position": "D2", "type_": "track", "extraartists": [{"join": "", "name": "Cheyne Towers", "anv": "", "tracks": "", "role": "Bass", "resource_url": "https://api.discogs.com/artists/155142", "id": 155142}, {"join": "", "name": "Bernard Purdie", "anv": "", "tracks": "", "role": "Drums", "resource_url": "https://api.discogs.com/artists/44138", "id": 44138}, {"join": "", "name": "Gwen Jamois", "anv": "", "tracks": "", "role": "Electronics", "resource_url": "https://api.discogs.com/artists/259747", "id": 259747}, {"join": "", "name": "Salena Saliva Godden", "anv": "Salena Saliva", "tracks": "", "role": "Featuring", "resource_url": "https://api.discogs.com/artists/293397", "id": 293397}, {"join": "", "name": "Jimpster", "anv": "", "tracks": "", "role": "Keyboards", "resource_url": "https://api.discogs.com/artists/582", "id": 582}, {"join": "", "name": "Tom Chant", "anv": "", "tracks": "", "role": "Saxophone", "resource_url": "https://api.discogs.com/artists/259754", "id": 259754}], "title": "The Tale Of Miss Virginia Epitome"},
+        {"duration": "", "position": "D3", "type_": "track", "extraartists": [{"join": "", "name": "Fuqua", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/223214", "id": 223214}, {"join": "", "name": "The Sycophants", "anv": "", "tracks": "", "role": "Remix", "resource_url": "https://api.discogs.com/artists/3799", "id": 3799}], "title": "Noah's Toilet (Fuqua & Sycophants Version)"}
+    ],
+    "genres": ["Electronic"],
+    "num_for_sale": 92,
+    "title": "Let Us Replay!",
+    "main_release": 38018,
+    "main_release_url": "https://api.discogs.com/releases/38018",
+    "uri": "https://www.discogs.com/Coldcut-Let-Us-Replay/master/17371",
+    "resource_url": "https://api.discogs.com/masters/17371",
+    "lowest_price": 0.8845643520566121,
+    "data_quality": "Correct"
+}
