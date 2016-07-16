@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/json">
+        <file>17371.json</file>
+    </qresource>
+</RCC>

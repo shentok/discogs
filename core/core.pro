@@ -1,5 +1,6 @@
 TEMPLATE = lib
 CONFIG += static create_prl
+QT += network
 
 INCLUDEPATH += ../../../cajun/src/json/
 

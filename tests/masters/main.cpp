@@ -156,24 +156,45 @@ private slots:
     void masters();
 
 private:
+    QUrl m_url;
     QNetworkAccessManager m_networkAccess;
     NetworkMemoryCache m_networkCache;
 };
 
-MastersTest::MastersTest()
+MastersTest::MastersTest() :
+    m_url("https://api.discogs.com/masters/17371"),
+    m_networkAccess(),
+    m_networkCache()
 {
     m_networkAccess.setCache(&m_networkCache);
 }
 
 void MastersTest::initTestCase()
 {
+    {
+        QFile file(":/json/17371.json");
+        QVERIFY(file.open(QFile::ReadOnly));
+        const QByteArray content = file.readAll();
+
+        const QNetworkCacheMetaData metaData = m_networkCache.metaData(m_url);
+
+        QVERIFY(metaData.isValid());
+
+        QIODevice *device = m_networkCache.prepare(metaData);
+
+        QVERIFY(device != nullptr);
+        QCOMPARE(device->write(content), content.size());
+
+        m_networkCache.insert(device);
+    }
 }
 
 void MastersTest::masters()
 {
-    QFile file(":/json/17371.json");
-    file.open(QFile::ReadOnly);
-    const QByteArray content = file.readAll();
+    QIODevice *device = m_networkCache.data(m_url);
+    const QByteArray content = device->readAll();
+    delete device;
+    device = 0;
 
     Discogs::Master master;
     try {
